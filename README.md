@@ -1,16 +1,18 @@
-### Hi there 👋
+### 👋 Olá, meu nome é Gabriel!
+#### Bem-vindo ao meu perfil!
 
-<!--
-**pomaleski/pomaleski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estou procurando pelo meu primeiro emprego como dev.
+- 🌱 Estou estudando **React JS** e **TypeScript**.
+- 📚 Cursando **Ciência da Computação**
+- 💜 Adoro assistir animes, e jogar.
 
-Here are some ideas to get you started:
+## Ferramentas e Técnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pomaleski&layout=compact&theme=jolly&hide=hack,dockerfile)
