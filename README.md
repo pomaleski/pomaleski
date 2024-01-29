@@ -9,7 +9,7 @@
 
 ----
 
-<div style="width: 100%; display: flex; justify-content: center; gap: 20px;">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=pomaleski&theme=jolly&show_icons=true" />
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pomaleski&layout=compact&theme=jolly&hide=hack,dockerfile" />
+<div>
+  <img align="left" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=pomaleski&theme=jolly&show_icons=true" />
+  <img align="right" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pomaleski&layout=compact&theme=jolly&hide=hack,dockerfile" />
 </div>
