@@ -1,6 +1,5 @@
 ### Olá, meu nome é Gabriel!
 
-- Estou procurando pelo meu primeiro emprego como dev.
 - Estou estudando **React JS** e **TypeScript**.
 - Cursando **Ciência da Computação**
 - Adoro assistir animes, e jogar.
